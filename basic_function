@@ -10,3 +10,9 @@ nano video_download.sh
 cd /Users/mack/(add rest of directory here)
 
 python3 (program name).py $1
+
+- save file by hitting Ctrl+x, then y to save, hit enter to exit
+
+- to run the file, in the terminal type
+
+zsh video_download.sh
