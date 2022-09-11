@@ -1,0 +1,12 @@
+- in terminal type nano and a name for your program and end with .sh
+
+
+nano video_download.sh
+
+- in shell file add bash command #!/bin/zsh then cd into where Python program is saved the type python3 (program name).py $1
+
+#!/bin/zsh
+
+cd /Users/mack/(add rest of directory here)
+
+python3 (program name).py $1
